@@ -1,0 +1,7 @@
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\obj\Debug\The Dominion of Kings.csproj.AssemblyReference.cache
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\obj\Debug\The Dominion of Kings.csproj.CoreCompileInputs.cache
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\bin\Debug\The Dominion of Kings.exe.config
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\bin\Debug\The Dominion of Kings.exe
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\bin\Debug\The Dominion of Kings.pdb
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\obj\Debug\The Dominion of Kings.exe
+C:\Users\ERC\Desktop\C#\The Dominion of Kings\The Dominion of Kings\obj\Debug\The Dominion of Kings.pdb
